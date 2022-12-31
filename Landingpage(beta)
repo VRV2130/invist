@@ -2,6 +2,36 @@
 <html>
 <head>
   <title>Investing Safely</title>
+  <style>
+    /* Add your CSS styles here */
+    body {
+      font-family: Arial, sans-serif;
+      color: #333;
+      background-color: #f2f2f2;
+      margin: 0;
+      padding: 0;
+    }
+    h1 {
+      font-size: 36px;
+      text-align: center;
+      margin: 20px 0;
+      color: #333;
+    }
+    p {
+      font-size: 18px;
+      line-height: 1.5;
+      margin: 20px 0;
+    }
+    ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+    li {
+      font-size: 18px;
+      margin: 10px 0;
+    }
+  </style>
 </head>
 <body>
   <h1>Investing Safely</h1>
