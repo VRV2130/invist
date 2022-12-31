@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Investing Safely</title>
+  <style>
+    /* Add your CSS styles here */
+    body {
+      font-family: Arial, sans-serif;
+      color: #333;
+      background-color: #f2f2f2;
+      margin: 0;
+      padding: 0;
+    }
+    h1 {
+      font-size: 36px;
+      text-align: center;
+      margin: 20px 0;
+      color: #333;
+    }
+    p {
+      font-size: 18px;
+      line-height: 1.5;
+      margin: 20px 0;
+    }
+    ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+    li {
+      font-size: 18px;
+      margin: 10px 0;
+    }
+    /* Add new styles for the banner and buttons */
+    .banner {
+      background-color: #333;
+      color: #fff;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 10px 20px;
+    }
+    .banner a {
+      color: #fff;
+      text-decoration: none;
+      font-size: 18px;
+    }
+    .banner a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <!-- Add the banner and buttons -->
+  <div class="banner">
+    <a href="/">Home</a>
+    <a href="https://replit.com/@dontknowhowtoco/Finance-calculator?v=1">Investing</a>
+  </div>
+  <h1>Investing Safely</h1>
+  <p>Welcome to our landing page about investing safely. Investing can be a great way to grow your wealth over time, but it's important to do it safely. Here are some tips to help you get started:</p>
+  <ul>
+    <li>Start by setting clear financial goals. What do you want to achieve with your investments?</li>
+    <li>Consider working with a financial advisor. They can help you create a personalized investment plan that takes into account your specific goals and risk tolerance.</li>
+    <li>Diversify your portfolio. Don't put all your eggs in one basket. Spread your investments across a range of asset classes to help reduce risk.</li>
+    <li>Understand the risks of different types of investments. Some investments, like stocks, are riskier but have the potential for higher returns. Others, like bonds, are generally less risky but may have lower returns.</li>
+    <li>Be patient and stay disciplined. Investing for the long term requires patience and discipline. Don't let short-term market fluctuations discourage you from sticking to your investment plan.</li>
+  </ul>
+  <p>We hope these tips help you get started on your journey to investing safely. Good luck!</p>
+</body>
+</html>
